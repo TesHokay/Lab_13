@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Lab_13
 {
-    internal class JournalEntry
+    public class JournalEntry
     {
         public string CollectionName { get; set; }
         public string ChangeType { get; set; }

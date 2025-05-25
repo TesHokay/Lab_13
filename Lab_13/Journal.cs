@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Lab_13
 {
-    internal class Journal
+    public class Journal
     {
-        private List<JournalEntry> entries = new List<JournalEntry>();
+        public List<JournalEntry> entries = new List<JournalEntry>();
 
         public void AddEntry(string collectionName, string changeType, object item)
         {

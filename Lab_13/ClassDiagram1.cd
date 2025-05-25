@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CarLibrary.Car">
+    <Position X="2.25" Y="1.25" Width="1.5" />
+    <NestedTypes>
+      <Class Name="CarLibrary.Car.CarPriceComparer" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="CarLibrary.Car.IdNumber" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CarLibrary.PassengerCar">
+    <Position X="4.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CarLibrary.SUV">
+    <Position X="6.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CarLibrary.Truck">
+    <Position X="6.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="ColLab.DoublyLinkedList&lt;T&gt;">
+    <Position X="9" Y="1" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="ColLab.DoublyNode&lt;T&gt;">
+    <Position X="9" Y="5.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="ColLab.MyCollection&lt;T&gt;">
+    <Position X="11" Y="1" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Lab_13.Journal">
+    <Position X="11" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Journal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_13.JournalEntry">
+    <Position X="15" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAEAAEAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>JournalEntry.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_13.CollectionHandlerEventArgs">
+    <Position X="13" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MyObservableCollection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_13.MyObservableCollection&lt;T&gt;">
+    <Position X="13" Y="1" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="Lab_13.MyObservableCollection&lt;T&gt;.CollectionHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>MyObservableCollection.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAKAQAAAAAAAAAIACAAABAEAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MyObservableCollection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_13.Program">
+    <Position X="15" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
